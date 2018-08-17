@@ -1,0 +1,37 @@
+# Site settings
+title:          Logcat
+description:    "blog for logcat group"
+baseurl:        "/blog"
+url:            "https://irlogcat.ir"
+
+# Author
+author:
+  name:         logcat
+  url:          https://irlogcat.ir
+  email:        info@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Exclude files
+exclude:
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - Gemfile
+  - Gemfile.lock
