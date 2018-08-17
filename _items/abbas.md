@@ -1,6 +1,6 @@
 ---
 layout: post
-title: عنوان تست یک
+title: تستی
 chapter: آیتم ۱۰
 author: کاظم جوادی
 ---

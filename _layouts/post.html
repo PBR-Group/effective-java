@@ -4,25 +4,22 @@ layout: default
 
 <div class="post">
   <div class="post-info">
+
+    <span></span><time datetime="{{ page.date }}" id="post:{{post.title}}">{{ page.chapter  }}</time>
+
+
+      <br>
     <span>نوشته شده توسط</span>
     {% if page.author %}
-        {{ page.author }}
+    {{ page.author }}
     {% else %}
-        {{ site.author.name }}
+    {{ site.author.name }}
     {% endif %}
 
-    {% if page.date %}
-      <br>
-      <span>در&nbsp;</span><time datetime="{{ page.date }}" id="post:{{post.title}}">{{ page.date | jdate: "%e %b %Y" }}</time>
-    {% endif %}
+      <!--<span>در&nbsp;</span><time datetime="{{ page.date }}" id="post:{{post.title}}">{{ page.date | jdate: "%e %b %Y" }}</time>-->
   </div>
 
-  <script>
-    var date = '{{page.date}}'
-    moment.loadPersian(true);
-    var jalaliDate = moment(date, 'YYYY-M-D HH:mm:ss TZD').format('ddd jD jMMMM jYYYY');
-    document.getElementById("post:{{post.title}}").innerText = jalaliDate
-</script>
+
 
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
