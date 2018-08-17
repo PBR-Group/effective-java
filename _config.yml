@@ -17,20 +17,17 @@ markdown:       kramdown
 sass:
   sass_dir:     _sass
   style:        compressed
+paginate:       5
 
 # Gems
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
+  - jekyll-paginate
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
 
-
-collections:
-  items:
-    output: true
 
 # Exclude files
 exclude:
@@ -39,13 +36,3 @@ exclude:
   - package.json
   - Gemfile
   - Gemfile.lock
-
-pagination:
-  enabled: true
-  per_page: 10
-  collection: 'items'
-
-  permalink: '/:num/'
-  trail:
-    before: 2
-    after: 2
