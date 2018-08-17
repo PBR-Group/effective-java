@@ -1,5 +1,5 @@
 # Site settings
-title:          Logcat
+title:          PBR Group
 description:    "blog for logcat group"
 baseurl:        "/effective-java"
 url:            "https://programming-book-reading-group.github.io"
@@ -7,6 +7,11 @@ url:            "https://programming-book-reading-group.github.io"
 # Author
 author:
   name:         logcat
+  url:          https://irlogcat.ir
+  email:        info@gmail.com
+
+book:
+  name:         Effective Java
   url:          https://irlogcat.ir
   email:        info@gmail.com
 
