@@ -1,8 +1,8 @@
 # Site settings
 title:          Logcat
 description:    "blog for logcat group"
-baseurl:        "/blog"
-url:            "https://irlogcat.ir"
+baseurl:        "/effective-java"
+url:            "https://programming-book-reading-group.github.io"
 
 # Author
 author:
