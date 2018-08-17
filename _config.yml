@@ -1,19 +1,17 @@
 # Site settings
 title:          PBR Group
-description:    "blog for logcat group"
+description:    "blog for PBR Group"
 baseurl:        "/effective-java"
 url:            "https://programming-book-reading-group.github.io"
 
 # Author
 author:
-  name:         logcat
-  url:          https://irlogcat.ir
-  email:        info@gmail.com
+  name:         PBR Group
+  url:          https://pbr-group.github.io
+  email:        pbr@gmail.com
 
 book:
   name:         Effective Java
-  url:          https://irlogcat.ir
-  email:        info@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -22,7 +20,7 @@ markdown:       kramdown
 sass:
   sass_dir:     _sass
   style:        compressed
-paginate:       5
+paginate:       10
 
 # Gems
 plugins:
