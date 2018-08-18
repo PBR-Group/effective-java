@@ -1,17 +1,16 @@
 # Site settings
 title:          PBR Group
-description:    "blog for PBR Group"
+description:    ""
 baseurl:        "/effective-java"
-url:            "https://programming-book-reading-group.github.io"
+url:            "https://pbr-group.github.io"
 
 # Author
 author:
   name:         PBR Group
   url:          https://pbr-group.github.io
-  email:        pbr@gmail.com
 
 book:
-  name:         Effective Java
+  name:         Effective Java (Third Edition)
 
 # Build settings
 markdown:       kramdown
@@ -29,7 +28,7 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:title
 
 
 # Exclude files
