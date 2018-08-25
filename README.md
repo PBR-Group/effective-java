@@ -23,11 +23,11 @@
 
 مثلا نام فایل آیتم ۵۶ میشه:
 <div dir="ltr">
-**1970-08-08-write-doc-comments-for-all-exposed-api-elements-post.md**
+1970-08-08-write-doc-comments-for-all-exposed-api-elements-post.md
 </div>
 و نام فایل آیتم ۶۱:
 <div dir="ltr">
-**1970-09-05-prefer-primitive-types-to-boxed-primitives-post.md**
+1970-09-05-prefer-primitive-types-to-boxed-primitives-post.md
 </div>
 
 
