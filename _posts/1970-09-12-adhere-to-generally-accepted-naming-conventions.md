@@ -93,7 +93,7 @@ author: پانیذ علیپور
 		متدهایی که نما یا view از یک شی را برمیگردانند به صورت asType نامگذاری می شوند.همانند asList
 		متدهایی که مقداری primitive با همان مقدار از شی ورودی را برمیگردانند typeValue نامگذاری می شوند مثل intValue
 		نام های رایج برای static factory ها from,of,valueOf,instance,getInstance,newInstance,getTypeو newType است
-				<div dir="rtl" align="right">
+<div dir="rtl" align="right">
 	- فیلدها
 </div>
 <br/>
