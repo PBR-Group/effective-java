@@ -12,8 +12,7 @@ author: پانیذ علیپور
 <div dir="rtl" align="right">
 	دسته اول قواعد TYPOGRAPHICAL	
 </div>
-
-
+<hr>
 <div dir="rtl" align="right">
 -  پکیج ، ماژول
 </div>
