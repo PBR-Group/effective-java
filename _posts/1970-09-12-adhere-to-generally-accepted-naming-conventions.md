@@ -107,7 +107,7 @@ author: پانیذ علیپور
 <hr>
 <hr>
 پینوشت : تفاوت acronym با abbreviation : تو معنی بنظر یکی میان من خودم تا این حد به تفاوت ظریفشون پی نبرده بودم، acronym در واقع از حروف اول یک عبارت تشکیل میشه و نوع تلفظش هم به نسبت عبارت اولیه و اصلیش متفاوته مثل 
-<div dir="ltr" >
+<div dir="ltr" align="left">
 IUPAC: International Union of Pure and Applied Chemistry
 </div>
 <div dir="rtl" align="right">
