@@ -60,31 +60,31 @@ author: پانیذ علیپور
 	-  پکیج ها
 </div>
 <br/>
-		قاعده گرامری برای پکیج ها وجود ندارد.
+			قاعده گرامری برای پکیج ها وجود ندارد.
 <div dir="rtl" align="right">
 	- کلاس هایی که قابل مقداردهی و instantiate هستند که شامل انواع enum هم می شوند
 </div>
 <br/>
-		باید شامل یک اسم یا عبارت اسمی باشد مثل Thread یا PriorityQueue
-		<div dir="rtl" align="right">
+			باید شامل یک اسم یا عبارت اسمی باشد مثل Thread یا PriorityQueue
+<div dir="rtl" align="right">
 	- کلاس هایی که قابل مقداردهی و instantiate نیستند(کلاس های utility)
-		</div>
-		<br/>
+</div>
+<br/>
 		با اسم جمع نامگذاری می شوند مثل Collectors
-			<div dir="rtl" align="right">
+<div dir="rtl" align="right">
 	- اینترفیس
-		</div>
-		<br/>
-		همانند کلاس ها و یا با صفتی که به able یا ible ختم می شود نامگذاری می شوند.مثل Rummable
-			<div dir="rtl" align="right">
+</div>
+<br/>
+			همانند کلاس ها و یا با صفتی که به able یا ible ختم می شود نامگذاری می شوند.مثل Rummable
+<div dir="rtl" align="right">
 	- annotation
-			</div>
-		<br/>
+</div>
+<br/>
 			Annotation ها چون بسیار پرکاربرد هستند هرکدام از این موارد اسم، فعل، حرف اضافه و صفت قابل استفاده و رایج است.
-				<div dir="rtl" align="right">
+<div dir="rtl" align="right">
 	- متدها
-				</div>
-		<br/>
+</div>
+<br/>
 		متدهایی که کاری انجام می دهند معمولا با یک فعل و یا عبارت فعلی (شامل مفعول) نامگذاری می شوند .
 		همانند append یا drawImage
 		متدهایی که مقداری boolean را برمیگردانند معمولا با کلمه is یا has شروع می شوند و در ادامه با یک اسم یا عبارت اسمی یا هر کلمه یا عبارت دیگری که مثل یک صفت عمل کند همراه می شوند.مثل isDigit,isProbablePrime,isEmpty,isEnabled,hasSiblings
@@ -95,8 +95,8 @@ author: پانیذ علیپور
 		نام های رایج برای static factory ها from,of,valueOf,instance,getInstance,newInstance,getTypeو newType است
 				<div dir="rtl" align="right">
 	- فیلدها
-	</div>
-		<br/>
+</div>
+<br/>
 		قواعد گرامری برای این دسته مهم نیست.فقط فیلدهای boolean معمولا مانند متدهای accessorنامگذاری می شوند به استثنای is که از ابتدای آن ها حذف می شود.مثل initialized
 		همچنین فیلدها با اسم یا یک عبارت اسمی نامگذاری می شوند.
 
