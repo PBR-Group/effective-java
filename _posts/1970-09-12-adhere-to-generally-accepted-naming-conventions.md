@@ -55,15 +55,16 @@ author: پانیذ علیپور
 <br/>
 	دسته دوم که قواعد گرامری است انعطاف پذیر تر از دسته اول هستند.
 <hr>
+<br/>
 <div dir="rtl" align="right">
 	-  پکیج ها
-	</div>
-	<br/>
+</div>
+<br/>
 		قاعده گرامری برای پکیج ها وجود ندارد.
-	<div dir="rtl" align="right">
+<div dir="rtl" align="right">
 	- کلاس هایی که قابل مقداردهی و instantiate هستند که شامل انواع enum هم می شوند
-		</div>
-		<br/>
+</div>
+<br/>
 		باید شامل یک اسم یا عبارت اسمی باشد مثل Thread یا PriorityQueue
 		<div dir="rtl" align="right">
 	- کلاس هایی که قابل مقداردهی و instantiate نیستند(کلاس های utility)
