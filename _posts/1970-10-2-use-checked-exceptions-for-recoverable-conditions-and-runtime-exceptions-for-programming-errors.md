@@ -6,6 +6,7 @@ author: پانیذ علیپور
 ---
 
 کلا داستان خطاها در جاوا به این شکل هست که تمام کلاس های خطا در جاوا از کلاس Throwable مشتق میشن.
+
 کلاس ها هم به دو دسته Exception و Error تقسیم میشوند که Error جزو اون دسته از خطاهاست که در زمان اجرای برنامه رخ میده و منجر به توقف اجرای برنامه میشوند . این خطاها وقتی اتفاق میفتن تنها کار نمایش یه خطای مناسب هست که از دستمون برمیاد.
 در مقابل Exception ها خطاهایی هستن که قابل کنترل شدن هستن و باید تو برنامه مدیریتشون کرد .در واقع Exceptionها وضعیت ناخواسته ای هستند که در حین اجرای برنامه ممکنه اتفاق بیفتند اما قابل پیش بینی هم هستند و به همین علت می بایست شناسایی و کنترل بشوند .
 Exception ها هم دو دسته هستند. RuntimeException ها و non-Runtime Exception ها که تو تصویر به نام Contigency Exception آورده یا جای دیگه من دیدم به نام User Exception آورده شده است.
@@ -16,12 +17,15 @@ Exception ها هم دو دسته هستند. RuntimeException ها و non-Runti
 
 <div dir="ltr" align="left">
 - ClassCastException
-
--ArrayOutOfBoundException
-
--NullPointerException
-و...
 </div>
+<div dir="ltr" align="left">
+-ArrayOutOfBoundException
+</div>
+<div dir="ltr" align="left">
+-NullPointerException
+</div>
+و...
+
 یه نکته ای که مطرح میکنه اینه که میگه برای تشخیص checked Exception از Unchecked Exception باید ببینین اون خطایی که ایجاد شده قابل رفع و ادامه دادن برنامه هست یا نه اگه بود Checked exception هست وگرنه Unchecked Exception.
 اما یه کم یه جاهایی تشخیصش سخت میشه که تو این موارد بستگی به تشخیص طراح داره که تصمیم بگیره تو کدوم دسته قرار میگیره.
 مثال میزنه
