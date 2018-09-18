@@ -31,6 +31,7 @@ Exception ها هم دو دسته هستند. RuntimeException ها و non-Runti
 -NullPointerException
 </div>
 و...
+
 یه نکته ای که مطرح میکنه اینه که میگه برای تشخیص checked Exception از Unchecked Exception باید ببینین اون خطایی که ایجاد شده قابل رفع و ادامه دادن برنامه هست یا نه اگه بود Checked exception هست وگرنه Unchecked Exception.
 اما یه کم یه جاهایی تشخیصش سخت میشه که تو این موارد بستگی به تشخیص طراح داره که تصمیم بگیره تو کدوم دسته قرار بگیره.
 
