@@ -16,7 +16,9 @@ Exception ها هم دو دسته هستند. RuntimeException ها و non-Runti
 
 <div dir="rtl" align="left">
 - ClassCastException
+
 -ArrayOutOfBoundException
+
 -NullPointerException
 و...
 </div>
