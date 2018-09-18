@@ -11,7 +11,7 @@ author: پانیذ علیپور
 
 در مقابل ، Exception ها خطاهایی هستن که قابل کنترل شدن هستن و باید تو برنامه مدیریتشون کرد .در واقع Exceptionها وضعیت ناخواسته ای هستند که در حین اجرای برنامه ممکنه اتفاق بیفتند اما قابل پیش بینی هم هستند و به همین علت می بایست شناسایی و کنترل بشوند .
 
-Exception ها هم دو دسته هستند. RuntimeException ها و non-Runtime Exception ها که تو تصویر به نام Contigency Exception آورده یا جای دیگه من دیدم به نام User Exception آورده شده است.
+Exception ها هم دو دسته هستند. RuntimeException ها و non-Runtime Exception ها که به نام Contigency Exception یا User Exception  شناخته می شوند.
 
 اما تو کتاب توضیح میده که زیر گروه non-Runtime Exception ها همون خطاهای checked Exception هستن که همونطور که گفتم باید توشرایطی ازشون استفاده کرد که تو برنامه قابل پیش بینی هستن اما ممکنه اتفاق بیفتن
 
