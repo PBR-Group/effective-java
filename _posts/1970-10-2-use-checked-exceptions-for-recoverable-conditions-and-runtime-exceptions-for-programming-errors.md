@@ -24,10 +24,10 @@ Exception ها هم دو دسته هستند. RuntimeException ها و non-Runti
 <div dir="ltr" >
 - ClassCastException
 </div>
-<div dir="rtl" align="left">
+<div dir="ltr" >
 -ArrayOutOfBoundException
 </div>
-<div dir="rtl" align="left">
+<div dir="ltr" >
 -NullPointerException
 </div>
 و...
