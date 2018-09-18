@@ -21,7 +21,7 @@ Exception ها هم دو دسته هستند. RuntimeException ها و non-Runti
 
 یه سری از خطاهای Runtime به این شکل هستن :
 
-<div dir="rtl" align="left">
+<div dir="ltr" >
 - ClassCastException
 </div>
 <div dir="rtl" align="left">
