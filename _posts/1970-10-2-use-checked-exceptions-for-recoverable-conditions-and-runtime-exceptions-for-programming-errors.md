@@ -21,13 +21,13 @@ Exception ها هم دو دسته هستند. RuntimeException ها و non-Runti
 
 یه سری از خطاهای Runtime به این شکل هستن :
 
-<div dir="ltr" align="left">
+<div dir="rtl" align="left">
 - ClassCastException
 </div>
-<div dir="ltr" align="left">
+<div dir="rtl" align="left">
 -ArrayOutOfBoundException
 </div>
-<div dir="ltr" align="left">
+<div dir="rtl" align="left">
 -NullPointerException
 </div>
 و...
